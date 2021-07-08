@@ -940,7 +940,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/..\/..\/..\/Weichenrieder\/workadventure\/workadventure_test\/workadventure_testmap\/testadventure\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
