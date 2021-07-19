@@ -10,5 +10,5 @@ https://pipoya.itch.io/pipoya-rpg-tileset-32x32
 
 
 
-*Kenney* (www.kenney.nl): 
+
 
