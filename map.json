@@ -87,6 +87,12 @@
          "id":21,
          "name":"Link_Whiteboard",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/wbo.ophir.dev\/boards\/DisKursLab-Board"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
