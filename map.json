@@ -58,9 +58,9 @@
                  "value":"https:\/\/wbo.ophir.dev\/boards\/DisKursLab-Board"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Dr\u00fccke die LEERTASTE, um das Whiteboard zu \u00f6ffnen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -81,9 +81,9 @@
                  "value":"https:\/\/diskurslab.eaberlin.de\/"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Dr\u00fccke die LEERTASTE, um die DisKursLab-Webseite zu \u00f6ffnen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -104,9 +104,9 @@
                  "value":"innenhof"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Dr\u00fccke die LEERTASTE, um in den Innenhof-Videochat zu kommen."
                 }],
          "type":"tilelayer",
          "visible":true,
