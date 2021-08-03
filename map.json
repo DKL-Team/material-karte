@@ -53,11 +53,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"obenWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Nutze die LEERTASTE zum Aufrufen des Whiteboards"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wbo.ophir.dev\/boards\/DisKursLab-Board"
@@ -65,7 +60,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Nutze die LEERTASTE zum Aufrufen des Whiteboards"
                 }],
          "type":"tilelayer",
          "visible":true,
