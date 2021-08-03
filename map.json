@@ -58,9 +58,9 @@
                  "value":"https:\/\/wbo.ophir.dev\/boards\/DisKursLab-Board"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Nutze die LEERTASTE zum Aufrufen des Whiteboards"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -104,9 +104,9 @@
                  "value":"innenhof"
                 }, 
                 {
-                 "name":"jitsiTriggerMessage",
+                 "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"your message action"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
