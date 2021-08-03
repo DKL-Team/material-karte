@@ -83,7 +83,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccke die LEERTASTE, um die DisKursLab-Webseite zu \u00f6ffnen."
+                 "value":"test action"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -106,7 +106,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccke die LEERTASTE, um in den Innenhof-Videochat zu kommen."
+                 "value":"Druecke die LEERTASTE, um in den Innenhof-Videochat zu kommen."
                 }],
          "type":"tilelayer",
          "visible":true,
