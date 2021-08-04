@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"Nutze die LEERTASTE zum Aufrufen des Whiteboards"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
